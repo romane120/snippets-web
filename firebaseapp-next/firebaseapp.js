@@ -82,4 +82,4 @@ function multiProjectInitOptions() {
     const otherStorage = getStorage(otherProject);
     const otherFirestore = getFirestore(otherProject);
     // [END app_multi_project_init_options]
-}
+
